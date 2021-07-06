@@ -13,7 +13,9 @@ This package provides the estimators and confidence intervals for the functional
 ## Installation
 Install this package from Github with 
 ```r
+# If the packe "devtool" has not been installed, install it fisrt with 
 #install.packages("devtools")
+library(devtools)
 devtools::install_github("MengYuan-UW/ZeroDRM")
 ```
 ## Functions
