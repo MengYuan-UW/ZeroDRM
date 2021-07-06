@@ -102,6 +102,6 @@ DiffGini(x,y,basis,CItype = "NA-DRM")
 
 ## References
 
-[Yuan, M., Wang, C., Lin, B., and Li, P. (2021a). "Semiparametric inference on general functionals of two semicontinuous populations." Annals of the Institute of Statistical Mathematics. In press.](https://doi.org/10.1007/s10463-021-00804-4)
+Yuan, M., Wang, C., Lin, B., and Li, P. (2021a). _Semiparametric inference on general functionals of two semicontinuous populations." Annals of the Institute of Statistical Mathematics._ [In press.](https://doi.org/10.1007/s10463-021-00804-4)
 
-[Yuan, M., Li, P., and Wu, C. (2021b). "Semiparametric inference on Gini indices of two semicontinuous populations under density ratio models." arXiv:2106.02741.](https://arxiv.org/abs/2106.02741)
+Yuan, M., Li, P., and Wu, C. (2021b). _Semiparametric inference on Gini indices of two semicontinuous populations under density ratio models._ [arXiv:2106.02741.](https://arxiv.org/abs/2106.02741)
