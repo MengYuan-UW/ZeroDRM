@@ -17,6 +17,7 @@ Install this package from Github with
 #install.packages("devtools")
 library(devtools)
 devtools::install_github("MengYuan-UW/ZeroDRM")
+library(ZeroDRM)
 ```
 ## Functions
 This package contains the following functions:
@@ -30,7 +31,6 @@ This package contains the following functions:
 We provide two examples.
 - Example 1: inference on population means and mean ratio
 ```r
-library("YoudenDRM")
 #Data generation function
 DataGen = function(nu,para,size){
   sample = rbinom(size,1,nu)
