@@ -1,0 +1,14 @@
+Package: ZeroDRM
+Type: Package
+Title: Inference on functionals and Gini indices of two semicontinuous populations under density ratio models.
+Author: Meng Yuan <m33yuan@uwaterloo.ca>
+Maintainer: Meng Yuan <m33yuan@uwaterloo.ca>
+Description: This package provides the estimation and confidence intervals for functionals and Gini indices of two semicontinuous populations under the density ratio model. 
+Version: 0.1.0
+License: GPL (>=3)
+LazyDate: TRUE
+Encoding: UTF-8
+LazyData: true
+Imports: nnet, ineq, Rdpack
+RdMacros: Rdpack
+RoxygenNote: 6.1.1
