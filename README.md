@@ -21,10 +21,10 @@ devtools::install_github("MengYuan-UW/ZeroDRM")
 ## Functions
 This package contains the following functions:
 - The Density Ratio Model (`DRM`): a function to fit the DRM.
-- The inference on the functional (`ZeroFunc'): a function to estimate the functionals and construct the confidence interval under the DRM.
-- The inference on the mean ratio (`MeanRatio'): a function to estimate the mean ratio of two populations and construct the confidence interval under the DRM.
-- The inference on the Gini indices (`ZeroGini'): a function to estimate the Gini indices and construct the confidence intervals under the DRM.
-- The inference on the difference of two Gini indices (`DiffGini'): a function to estimate the difference of Gini indices of two populations and construct the confidence intervals under the DRM.
+- The inference on the functional (`ZeroFunc`): a function to estimate the functionals and construct the confidence interval under the DRM.
+- The inference on the mean ratio (`MeanRatio`): a function to estimate the mean ratio of two populations and construct the confidence interval under the DRM.
+- The inference on the Gini indices (`ZeroGini`): a function to estimate the Gini indices and construct the confidence intervals under the DRM.
+- The inference on the difference of two Gini indices (`DiffGini`): a function to estimate the difference of Gini indices of two populations and construct the confidence intervals under the DRM.
 
 ## Usage
 We provide two examples.
